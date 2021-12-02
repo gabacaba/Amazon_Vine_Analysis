@@ -21,9 +21,11 @@ The dataset used for this analysis was the "BEauty dataset". For The analysis us
 - - Non-vine reviews: 58.31%
 
 ##Visual Summary of Vine Reviews##
+
 ![Paid Reviews Summary](https://user-images.githubusercontent.com/88411140/144507001-e6979eda-b5e8-4392-b54d-aef43bfaa053.png)
 
 ##Visual Summary of Un-Vine Reviews##
+
 ![Unpaid Reviews Summary](https://user-images.githubusercontent.com/88411140/144507016-126c0967-b346-4c0c-8cf1-1b0f86778c82.png)
 
 
